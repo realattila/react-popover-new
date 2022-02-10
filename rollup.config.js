@@ -5,7 +5,7 @@ export default {
   input: "src/index.tsx",
   output: [
     {
-      file: "./dist/" + pkg.main,
+      file: pkg.main,
 
       format: "cjs",
       exports: "named",

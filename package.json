@@ -2,7 +2,7 @@
   "name": "react-popover-new",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "dependencies": {
     "babel-core": "^6.26.3",
     "babel-runtime": "^6.26.0",
